@@ -1,7 +1,7 @@
 # Transfer_Random_forests_BBOB_Real_world
 
 ### Overview
-This repository contains the implementation for the paper titled "Transfer Learning of Surrogate models via Domain Affine Transformation Across Synthetic and Real-World Benchmarks", which has been submitted to IEEE Congress on Evolutionary Computation.
+This repository contains the implementation for the paper titled "Transfer Learning of Surrogate models via Domain Affine Transformation Across Synthetic and Real-World Benchmarks", which has been submitted to 2025 IEEE Congress on Evolutionary Computation which is currently under review.
 
 ### Installation
 conda env create -f environment.yml
